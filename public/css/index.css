@@ -1,11 +1,5 @@
-.color-red {
-    color: red;
-}
+/* Estilos da pagina index */
 
-.color-red ul li a {
-    color: green;
-}
-
-#link-home {
-    color: black;
+.cover-container figure img {
+    width: 100%;
 }
