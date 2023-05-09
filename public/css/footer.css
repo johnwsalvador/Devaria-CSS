@@ -6,5 +6,15 @@ footer {
     padding: 20px; 
     width: 75%;
     margin: auto;
+    text-transform: lowercase;
 }
+
+footer section span first-child {
+    color: #5e49ff;
+}
+footer section span last-child {
+    color: #3bd42d;
+}    
+
+
 
