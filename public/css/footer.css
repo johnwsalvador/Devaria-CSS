@@ -9,12 +9,12 @@ footer {
     text-transform: lowercase;
 }
 
-footer section span first-child {
+footer section span:first-child{ 
     color: #5e49ff;
 }
-footer section span last-child {
+footer section span:last-child {
     color: #3bd42d;
-}    
+}
 
 
 
