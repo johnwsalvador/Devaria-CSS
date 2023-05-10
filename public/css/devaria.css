@@ -24,3 +24,21 @@ h1.title {
 .text-justify {
     text-align: justify;
 }
+
+.text-center {
+    text-align: center;
+}
+
+.margin-horizontal-20px {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+@media screen and (min-width: 992px) {
+    .w-50pct-desktop{
+        width: 50% !important;
+    }
+
+    
+}
